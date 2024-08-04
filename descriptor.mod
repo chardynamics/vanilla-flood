@@ -10,5 +10,5 @@ dependencies={
 	"Red Flood"
 }
 name="Vanilla Flood"
-supported_version="1.13.6"
+supported_version="1.14.7"
 remote_file_id="3121870482"
